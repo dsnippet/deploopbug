@@ -1,0 +1,3 @@
+class baz {
+  import trump;
+}
